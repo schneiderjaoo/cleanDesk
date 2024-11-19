@@ -18,13 +18,16 @@ A ideia nasceu de um vídeo que vi no Insta do **1% Programador**. Dei aquela aj
    git clone <url-do-repositorio>
 
 3. Va para pasta do projeto:
-    ```cd organizador-de-arquivos
+    ```base
+    cd organizador-de-arquivos
 
 4. Ai só rodar:
-    ```node organizar.js
+    ```bash
+    node organizar.js
 
 5. Também pode organizar outra pasta 
-    ```node organizar.js /caminho/para/sua/pasta
+    ```bash
+    node organizar.js /caminho/para/sua/pasta
 
 # ⚙️ Configuração
 O mapeamento das extensões está no arquivo config.json. Quer personalizar? Só mudar! Exemplo:
